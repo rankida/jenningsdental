@@ -46,6 +46,13 @@ html, body {
   background-size: cover;
 }
 
+#header {
+  background-color: #DCE8F5;
+}
+#mainLogo {
+  width: 65%;
+}
+
 #about {
 }
 
@@ -70,8 +77,13 @@ html, body {
   width: 140px;
 }
 
-#services {
+.blue-span {
   background-color: #088FCC; /* #306d9f; */
+  color: #ffffff;
+}
+
+.grey-span {
+  background-color: #5B5B5D;
   color: #ffffff;
 }
 
@@ -105,7 +117,11 @@ footer .glyphicon:hover {
   color: #306d9f;
 }
 
-
+.navIcon{
+  display: block;
+  text-align: center;
+  padding: 5px 0 10px 0;
+}
 
 
 
