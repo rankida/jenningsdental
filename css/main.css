@@ -123,6 +123,9 @@ footer .glyphicon:hover {
   padding: 5px 0 10px 0;
 }
 
+.navbar-brand img {
+  width: 90px;
+}
 
 
 
